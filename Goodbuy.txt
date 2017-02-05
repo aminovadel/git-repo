@@ -1,0 +1,2 @@
+print("Good Buy!");
+print("Bye Bye!");
